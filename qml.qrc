@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/videocall.png</file>
+        <file>images/calling.jpg</file>
+        <file>Contactlist.qml</file>
+        <file>images/sunset-modified.png</file>
+        <file>images/search-modified.png</file>
+        <file>images/download-modified.png</file>
+        <file>images/Contactlist.csv</file>
+        <file>images/google.png</file>
+        <file>images/contact.png</file>
+        <file>images/plus.png</file>
+        <file>images/more.png</file>
+        <file>images/magnifying-glass.png</file>
+        <file>SearchPage.qml</file>
+        <file>images/people.png</file>
+        <file>images/email.png</file>
+        <file>images/contact (1).png</file>
+        <file>images/down-chevron.png</file>
+        <file>images/arrow-up.png</file>
+        <file>images/cameraimge.webp</file>
+        <file>CustomRectangle.qml</file>
+        <file>CustomTextfield.qml</file>
+        <file>AddcontactComponent.qml</file>
+        <file>CustomDropdown.qml</file>
+        <file>images/left.png</file>
+        <file>images/trash (1).png</file>
+        <file>images/search (3).png</file>
+        <file>images/search (2).png</file>
+        <file>images/menu.png</file>
+        <file>images/magnifying-glass (2).png</file>
+        <file>images/girl-modified.png</file>
+        <file>images/girl (1)-modified.png</file>
+        <file>images/employee-modified.png</file>
+        <file>images/sqaure.webp</file>
+        <file>images/employee (1)-modified.png</file>
+        <file>Custombutton.qml</file>
+        <file>images/plus (1).png</file>
+        <file>CustomImage.qml</file>
+        <file>CustomRectanglewithImage.qml</file>
+        <file>keypad.qml</file>
+        <file>customdialog.qml</file>
+        <file>images/contactcolor.jpg</file>
+        <file>images/butterfly.jpg</file>
+        <file>images/redimages.jpeg</file>
+        <file>images/keyimages.jpeg</file>
+        <file>images/imagesblack.jpeg</file>
+        <file>images/imageswhite.jpeg</file>
+        <file>images/imagescloud.jpeg</file>
+        <file>images/imagesthreadwhite.jpeg</file>
+        <file>images/imagesflower.jpeg</file>
+        <file>images/green.jpg</file>
+        <file>images/pinkcolor.jpeg</file>
+        <file>images/camera.png</file>
+        <file>images/darkpink.jpg</file>
+        <file>images/brownstone.jpg</file>
+        <file>images/darkbrown.jpg</file>
+        <file>images/pink1.jpg</file>
+        <file>images/edit.png</file>
+        <file>images/pencil.png</file>
+        <file>images/profile_image.webp</file>
+        <file>images/profile_new1.jpg</file>
+        <file>images/profile_new1 (1)-modified (1).png</file>
+        <file>images/redcalling.png</file>
+        <file>images/calling12.png</file>
+        <file>images/searchbar.png</file>
+    </qresource>
+</RCC>
